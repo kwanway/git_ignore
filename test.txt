@@ -1,0 +1,2 @@
+Add something for stage!
+Add after staged!
