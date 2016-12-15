@@ -1,3 +1,0 @@
-Add something for stage!
-Add after staged!
-Ignore git add!
